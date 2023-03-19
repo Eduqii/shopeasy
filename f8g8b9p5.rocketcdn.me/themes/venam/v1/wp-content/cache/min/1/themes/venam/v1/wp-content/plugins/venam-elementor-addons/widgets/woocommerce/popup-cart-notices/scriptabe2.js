@@ -1,0 +1,1 @@
+'use strict';(function($){$(document.body).on('added_to_cart updated_cart_totals',function(e){if(jQuery('.venam-popup-notices').length){setTimeout(function(){},4000)}})})(jQuery)
